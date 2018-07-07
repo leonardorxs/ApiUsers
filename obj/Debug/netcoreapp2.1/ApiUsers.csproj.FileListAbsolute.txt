@@ -1,0 +1,14 @@
+C:\Users\leona\Documents\Macoratti\Minicurso ASP.NET\ApiUsers\obj\Debug\netcoreapp2.1\ApiUsers.csprojAssemblyReference.cache
+C:\Users\leona\Documents\Macoratti\Minicurso ASP.NET\ApiUsers\obj\Debug\netcoreapp2.1\ApiUsers.csproj.CoreCompileInputs.cache
+C:\Users\leona\Documents\Macoratti\Minicurso ASP.NET\ApiUsers\obj\Debug\netcoreapp2.1\ApiUsers.RazorAssemblyInfo.cache
+C:\Users\leona\Documents\Macoratti\Minicurso ASP.NET\ApiUsers\obj\Debug\netcoreapp2.1\ApiUsers.RazorAssemblyInfo.cs
+C:\Users\leona\Documents\Macoratti\Minicurso ASP.NET\ApiUsers\obj\Debug\netcoreapp2.1\ApiUsers.AssemblyInfoInputs.cache
+C:\Users\leona\Documents\Macoratti\Minicurso ASP.NET\ApiUsers\obj\Debug\netcoreapp2.1\ApiUsers.AssemblyInfo.cs
+C:\Users\leona\Documents\Macoratti\Minicurso ASP.NET\ApiUsers\bin\Debug\netcoreapp2.1\ApiUsers.deps.json
+C:\Users\leona\Documents\Macoratti\Minicurso ASP.NET\ApiUsers\bin\Debug\netcoreapp2.1\ApiUsers.runtimeconfig.json
+C:\Users\leona\Documents\Macoratti\Minicurso ASP.NET\ApiUsers\bin\Debug\netcoreapp2.1\ApiUsers.runtimeconfig.dev.json
+C:\Users\leona\Documents\Macoratti\Minicurso ASP.NET\ApiUsers\bin\Debug\netcoreapp2.1\ApiUsers.dll
+C:\Users\leona\Documents\Macoratti\Minicurso ASP.NET\ApiUsers\bin\Debug\netcoreapp2.1\ApiUsers.pdb
+C:\Users\leona\Documents\Macoratti\Minicurso ASP.NET\ApiUsers\obj\Debug\netcoreapp2.1\ApiUsers.RazorTargetAssemblyInfo.cache
+C:\Users\leona\Documents\Macoratti\Minicurso ASP.NET\ApiUsers\obj\Debug\netcoreapp2.1\ApiUsers.dll
+C:\Users\leona\Documents\Macoratti\Minicurso ASP.NET\ApiUsers\obj\Debug\netcoreapp2.1\ApiUsers.pdb
